@@ -1,3 +1,4 @@
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 
 # PRISM : Pruning for Rank-adaptive Interpretable Segmentation Model.
 
