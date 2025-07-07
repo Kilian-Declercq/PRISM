@@ -6,7 +6,6 @@ PRISM integrates NMF in a neural structure to automatically extracts interpretab
 - [Kilian Declercq](https://www.github.com/Kilian-Declercq) - [Mohamed Cheriet](https://profs.etsmtl.ca/mcheriet/)
 
 
+![PRISM21](https://github.com/user-attachments/assets/d56ca3a3-65b6-43e0-977e-4528beff784b)
 
-
-![Prismflat](https://github.com/user-attachments/assets/fd1066a1-66f1-4f6a-9930-c7c469bcf674)
 
