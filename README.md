@@ -27,9 +27,9 @@ Just like a physical **prism** splits white light into a spectrum of colors, the
 
 From left to right:
 
-**(a) Pseudo-color image** — raw multispectral image of a degraded manuscript  
-**(b) SoTA binarization only (Howe)** — fails to extract faint or occluded text  
-**(c) PRISM decomposition** — successfully separates text from background, enhancing readability and segmentation quality
+- **(a) Pseudo-color image** — raw multispectral image of a degraded manuscript  
+- **(b) SoTA binarization only (Howe)** — fails to extract faint or occluded text  
+- **(c) PRISM decomposition** — successfully separates text from background, enhancing readability and segmentation quality
 
 ---
 
