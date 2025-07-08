@@ -7,9 +7,7 @@
 ## Overview
 
 **PRISM** is a novel segmentation model that integrates **Nonnegative Matrix Factorization (NMF)** within a deep neural architecture.  
-Designed for historical document processing, PRISM automatically extracts meaningful and interpretable components from **multispectral images**, enhancing tasks such as **text binarization** and **layer separation**.
-
----
+Designed for historical document processing, PRISM automatically extracts meaningful and interpretable components from **multispectral images**, enhancing tasks such as **text binarization** and **image segmentation**. The framework has also demonstrated **generalization capabilities** to the **spectral unmixing** task, making it suitable for a broader range of remote sensing and imaging applications.
 
 ## A Prism for Vision
 
@@ -17,11 +15,7 @@ Designed for historical document processing, PRISM automatically extracts meanin
   <img src="https://github.com/user-attachments/assets/d56ca3a3-65b6-43e0-977e-4528beff784b" alt="PRISM21 illustration" width="600">
 </p>
 
-Just like a physical **prism** splits white light into a spectrum of colors, the **PRISM model** decomposes complex spectral data into distinct, interpretable visual components — illuminating hidden structures in degraded historical manuscripts.
-
----
-
-## Why PRISM?
+Just like a physical **prism** splits white light into a spectrum of colors, the **PRISM model** decomposes complex spectral data into distinct, interpretable visual components with :
 
 - ✅ Fully interpretable component extraction  
 - ✅ Rank-adaptive pruning during training  
@@ -54,4 +48,4 @@ From left to right:
 ## Links and Citation
 
 📄 **[Read the preprint on arXiv](https://arxiv.org/abs/<INDEX>)**  
-📦 Coming soon: code, dataset links, and pretrained models.
+📦 Coming soon: results, dataset links, and pretrained models.
