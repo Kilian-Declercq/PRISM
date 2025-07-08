@@ -43,7 +43,6 @@ From left to right:
 - [Kilian Declercq](https://www.github.com/Kilian-Declercq)  
 - [Mohamed Cheriet](https://profs.etsmtl.ca/mcheriet/)
 
----
 
 ## Links and Citation
 
