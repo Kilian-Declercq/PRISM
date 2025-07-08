@@ -24,6 +24,7 @@ Just like a physical **prism** splits white light into a spectrum of colors, the
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd1d82d7-4747-4fec-8c65-f68158c51b0d" alt="Multispectral vs Decomposition" width="900">
 </p>
+![prismtext](https://github.com/user-attachments/assets/8d0b5bb2-8e9f-4984-b014-e4ffd6b5b54d)
 
 From left to right:
 **(a) Pseudo-color image** — raw multispectral image of a degraded manuscript  
