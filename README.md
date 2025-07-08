@@ -33,6 +33,25 @@ From left to right:
 
 ---
 
+## Datasets
+
+
+### MSBin dataset
+
+This dataset is dedicated to the (document image) binarization of multispectral images with MSBin standing for MultiSpectral Document Binarization. 
+
+[Link to MSBIN GitHub page](https://github.com/hollaus/msbin) 
+
+### DIBCO
+
+DIBCO is the International Document Image Binarization Contest, organized since 2009 in conjunction with ICDAR - International Conference on Document Analysis and Recognition.  
+DIBCO is the first effort made by the academic community to assess binarization algorithms and is widely acknowledged as providing important information about the quality of participating algorithms.
+
+[Link to DIBCO data](https://dib.cin.ufpe.br/#!/resources/dibco) 
+
+
+
+
 ## Authors
 
 - [Kilian Declercq](https://www.github.com/Kilian-Declercq)  
