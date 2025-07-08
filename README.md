@@ -66,6 +66,7 @@ It is a valuable benchmark for evaluating spectral decomposition and binarizatio
 
 - [Kilian Declercq](https://www.github.com/Kilian-Declercq)  
 - [Mohamed Cheriet](https://profs.etsmtl.ca/mcheriet/)
+- [Abderahmanne Rahiche]()
 
 
 ## Links and Citation
