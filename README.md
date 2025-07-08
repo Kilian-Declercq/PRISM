@@ -49,7 +49,7 @@ It is a valuable benchmark for evaluating spectral decomposition and binarizatio
 
 
 
-## Results (Placeholder)
+## Results
 
 | Dataset     | FM ↑     | DRD ↓    | NRM ↓    | PSNR ↑   |
 |-------------|----------|----------|----------|----------|
