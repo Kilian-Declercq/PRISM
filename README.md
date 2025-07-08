@@ -2,10 +2,6 @@
 
 # PRISM: Pruning for Rank-adaptive Interpretable Segmentation Model
 
-
-
-## Overview
-
 **PRISM** is a novel segmentation model that integrates **Nonnegative Matrix Factorization (NMF)** within a deep neural architecture.  
 Designed for historical document processing, PRISM automatically extracts meaningful and interpretable components from **multispectral images**, enhancing tasks such as **text binarization** and **image segmentation**. The framework has also demonstrated **generalization capabilities** to the **spectral unmixing** task, making it suitable for a broader range of remote sensing and imaging applications.
 
