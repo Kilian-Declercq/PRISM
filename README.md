@@ -1,6 +1,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-b31b1b.svg)](https://arxiv.org/abs/<INDEX>)
 
-# PRISM: Pruning for Rank-adaptive Interpretable Segmentation Model
+# **PRISM**: Pruning for Rank-adaptive Interpretable Segmentation Model
 
 **PRISM** is a novel segmentation model that integrates **Nonnegative Matrix Factorization (NMF)** within a deep neural architecture. Designed for historical document processing, PRISM automatically extracts meaningful and interpretable components from **multispectral images**, enhancing tasks such as **text binarization** and **image segmentation**. The framework has also demonstrated **generalization capabilities** to the **spectral unmixing** task, making it suitable for a broader range of remote sensing and imaging applications.
 
