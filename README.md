@@ -35,6 +35,12 @@ From left to right:
 
 ## Datasets
 
+### MStex
+
+This dataset is dedicated to the document image binarization of multispectral images and is provided by the Synchromedia Laboratory.
+
+[Link to MStex dataset](https://tc11.cvc.uab.es/datasets/SMADI_1)
+
 
 ### MSBin dataset
 
@@ -50,6 +56,17 @@ DIBCO is the first effort made by the academic community to assess binarization 
 [Link to DIBCO data](https://dib.cin.ufpe.br/#!/resources/dibco) 
 
 
+
+## Results (Placeholder)
+
+| Dataset     | FM ↑     | DRD ↓    | NRM ↓    | PSNR ↑   |
+|-------------|----------|----------|----------|----------|
+| DIBCO 2013  | –        | –        | –        | –        |
+| DIBCO 2016  | –        | –        | –        | –        |
+| MSBin (Set A) | –      | –        | –        | –        |
+| MSBin (Set B) | –      | –        | –        | –        |
+
+> *↑: higher is better, ↓: lower is better.*
 
 
 ## Authors
