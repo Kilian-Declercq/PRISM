@@ -34,26 +34,21 @@ From left to right:
 ---
 
 ## Datasets
+### MS-TEx (SMADI)
 
-### MStex
+The **MS-TEx** dataset (Synchromedia Multispectral Ancient Document Images) is provided by the Synchromedia Laboratory.  
+It consists of **multispectral images of historical documents** specifically designed for benchmarking text extraction and binarization algorithms under varying degradations.
 
-This dataset is dedicated to the document image binarization of multispectral images and is provided by the Synchromedia Laboratory.
+🔗 [Link to MS-TEx dataset](https://tc11.cvc.uab.es/datasets/SMADI_1)
 
-[Link to MStex dataset](https://tc11.cvc.uab.es/datasets/SMADI_1)
+---
 
+### MSBin
 
-### MSBin dataset
+The **MSBin** dataset focuses on **multispectral document binarization**, containing challenging degraded manuscripts captured under different spectral bands.  
+It is a valuable benchmark for evaluating spectral decomposition and binarization performance.
 
-This dataset is dedicated to the (document image) binarization of multispectral images with MSBin standing for MultiSpectral Document Binarization. 
-
-[Link to MSBIN GitHub page](https://github.com/hollaus/msbin) 
-
-### DIBCO
-
-DIBCO is the International Document Image Binarization Contest, organized since 2009 in conjunction with ICDAR - International Conference on Document Analysis and Recognition.  
-DIBCO is the first effort made by the academic community to assess binarization algorithms and is widely acknowledged as providing important information about the quality of participating algorithms.
-
-[Link to DIBCO data](https://dib.cin.ufpe.br/#!/resources/dibco) 
+🔗 [Link to MSBin GitHub page](https://github.com/hollaus/msbin)
 
 
 
@@ -61,10 +56,10 @@ DIBCO is the first effort made by the academic community to assess binarization 
 
 | Dataset     | FM ↑     | DRD ↓    | NRM ↓    | PSNR ↑   |
 |-------------|----------|----------|----------|----------|
-| DIBCO 2013  | –        | –        | –        | –        |
-| DIBCO 2016  | –        | –        | –        | –        |
-| MSBin (Set A) | –      | –        | –        | –        |
-| MSBin (Set B) | –      | –        | –        | –        |
+| MStex  | –        | –        | –        | –        |
+| MSBin EA  | –        | –        | –        | –        |
+| MSBin BT | –      | –        | –        | –        |
+
 
 > *↑: higher is better, ↓: lower is better.*
 
