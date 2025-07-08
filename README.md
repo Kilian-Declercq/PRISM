@@ -41,8 +41,6 @@ It consists of **multispectral images of historical documents** specifically des
 
 🔗 [Link to MS-TEx dataset](https://tc11.cvc.uab.es/datasets/SMADI_1)
 
----
-
 ### MSBin
 
 The **MSBin** dataset focuses on **multispectral document binarization**, containing challenging degraded manuscripts captured under different spectral bands.  
