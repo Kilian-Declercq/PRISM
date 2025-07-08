@@ -71,4 +71,4 @@ It is a valuable benchmark for evaluating spectral decomposition and binarizatio
 ## Links and Citation
 
 📄 **[Read the preprint on arXiv](https://arxiv.org/abs/<INDEX>)**  
-📦 Coming soon: results, dataset links, and pretrained models.
+📦 Coming soon: results metrics, visual results, training loops.
