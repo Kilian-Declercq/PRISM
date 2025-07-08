@@ -1,6 +1,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-b31b1b.svg)](https://arxiv.org/abs/<INDEX>)
 # PRISM : Pruning for Rank-adaptive Interpretable Segmentation Model.
-
+$${\color{lightblue}Light \space Blue}$$
 PRISM integrates NMF in a neural structure to automatically extract interpretable components from multispectral images. Applied to multispectral images of historical documents, PRISM enhances text binarization through improved decomposition.
 
 [Kilian Declercq](https://www.github.com/Kilian-Declercq) - [Mohamed Cheriet](https://profs.etsmtl.ca/mcheriet/)
